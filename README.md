@@ -257,7 +257,7 @@ For detailed hypothesis test outputs, research references, methodology, charts, 
 
 ## 🤝 Contributors
 
-Developed as a **group academic project**. Add your group members' names and GitHub profiles here before publishing.
+Developed as a **group academic project**.
 
 ---
 
